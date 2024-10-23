@@ -1,0 +1,30 @@
+/* *{ */
+    /* background-color: aqua; */
+/* } */
+.navbar{
+    background-color: rgb(197, 177, 154) !important;
+}
+.imghero{
+    height: 90dvh;
+}
+.parthero{
+    position: relative;
+}
+.presentation{
+    position:absolute;
+   top:50%
+}
+.presentation h5{
+    font-size: 5rem;
+    font-weight: bold;
+    color: rgb(177, 16, 16);
+}
+.presentation p{
+    text-align: center;
+}
+.presentation button{
+    padding: 5px;;
+}
+.footer{
+    background-color: rgb(197, 177, 154);
+}
